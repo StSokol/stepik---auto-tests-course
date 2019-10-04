@@ -1,5 +1,7 @@
 # stepik---auto-tests-course
-Some tasks for homework to course
+This is a tested repository for some tasks on Selenium course from stepik.org 
 
-So let's add here link on the course. Like this:
+The same in Russian:
+Это тестовый  репозиторий для некоторых задач по курсу Селениум с портала Stepik.org 
+
 Link for this course https://stepik.org/course/575/syllabus
